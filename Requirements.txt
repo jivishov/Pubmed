@@ -1,0 +1,5 @@
+pandas
+gunicorn
+numpy
+matplotlib
+click
